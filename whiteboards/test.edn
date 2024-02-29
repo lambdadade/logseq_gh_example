@@ -1,0 +1,96 @@
+{:blocks (
+{:block/created-at 1709207898790
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:stroke ""
+:borderRadius 2
+:index 0
+:scale [1 1]
+:scaleLevel "md"
+:fill ""
+:type "box"
+:size [288 152]
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:label "asdsdsada"
+:id "d26a0bb0-d6f9-11ee-ba48-33fcb0af966a"
+:fontWeight 400
+:noFill false
+:point [408 264]
+:fontSize 20
+:parentId "65e0714f-64a4-4ed5-a196-5343ae888524"
+:nonce 1709207896074
+:italic false}}
+:block/updated-at 1709207898790} 
+{:block/created-at 1709207911227
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:isSizeLocked true
+:stroke ""
+:borderRadius 0
+:index 1
+:scale [1 1]
+:scaleLevel "md"
+:fill ""
+:type "text"
+:size [68 34]
+:fontFamily "var(--ls-font-family)"
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:id "d5cce5c0-d6f9-11ee-ba48-33fcb0af966a"
+:padding 4
+:fontWeight 400
+:noFill true
+:point [1008 328]
+:lineHeight 1.2
+:fontSize 20
+:parentId "65e0714f-64a4-4ed5-a196-5343ae888524"
+:nonce 1709207901735
+:italic false
+:text "sdada"}}
+:block/updated-at 1709207911227} 
+{:block/created-at 1709207913868
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:stroke ""
+:index 2
+:scale [1 1]
+:scaleLevel "md"
+:fill ""
+:type "ellipse"
+:size [352 208]
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:label "asdsdas\n"
+:id "db2b68c0-d6f9-11ee-ba48-33fcb0af966a"
+:fontWeight 400
+:noFill false
+:point [856 504]
+:fontSize 20
+:parentId "65e0714f-64a4-4ed5-a196-5343ae888524"
+:nonce 1709207910768
+:italic false}}
+:block/updated-at 1709207913868})
+:pages (
+{:block/uuid #uuid "65e0714f-64a4-4ed5-a196-5343ae888524"
+:block/properties 
+{:ls-type :whiteboard-page
+:logseq.tldraw.page 
+{:id "65e0714f-64a4-4ed5-a196-5343ae888524"
+:name "test"
+:bindings 
+{}
+:nonce 1
+:assets []
+:shapes-index ("d26a0bb0-d6f9-11ee-ba48-33fcb0af966a" "d5cce5c0-d6f9-11ee-ba48-33fcb0af966a" "db2b68c0-d6f9-11ee-ba48-33fcb0af966a")}}
+:block/updated-at 1709207913868
+:block/created-at 1709207887023
+:block/type "whiteboard"
+:block/name "test"
+:block/original-name "test"})}
